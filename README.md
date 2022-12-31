@@ -32,7 +32,7 @@ Para registrar um livro você deve inserir os campos "bookName", "category" e "u
 
 Post /movies
 
-Para registrar um filme você deve inserir os campos "bookName", "category", e userId para referenciar o id do usuário logado, é necessário o uso de um Token para efetuar o registro
+Para registrar um filme você deve inserir os campos "movieName", "category", e userId para referenciar o id do usuário logado, é necessário o uso de um Token para efetuar o registro
 
 ### Get All Movies
 
