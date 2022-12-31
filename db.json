@@ -6,6 +6,34 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "joaovicente985@msn.com",
+      "password": "$2a$10$bqfzQ61DkXgmkCLn.Xvx4eYj1aZqofAURjGceglYGXw0HFFdK.xVi",
+      "username": "joaozinho",
+      "id": 2
+    }
+  ],
+  "movies": [
+    {
+      "movieName": "Avatar",
+      "category": "Ficção Científica",
+      "userId": 2,
+      "id": 1
+    }
+  ],
+  "books": [
+    {
+      "bookName": "O Homem que calculava",
+      "category": "Aventura e Lógica",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "bookName": "O Hobbit",
+      "category": "Aventura e Ficção",
+      "userId": 1,
+      "id": 2
     }
   ]
 }
